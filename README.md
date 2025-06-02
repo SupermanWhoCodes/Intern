@@ -1,5 +1,5 @@
 **Intern – Problem-Solving Full-Stack Developer (MVP / Micro-SaaS)**
-*On-site · 6-day work-week · “Vibe-coding” culture · Immediate start*
+*On-site · 6-day work-week · Immediate start*
 
 ---
 
