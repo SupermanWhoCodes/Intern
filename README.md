@@ -1,5 +1,5 @@
 **Intern – Problem-Solving Full-Stack Developer (MVP / Micro-SaaS)**
-*On-site · 6-day work-week · Immediate start*
+*On-site · Immediate start*
 
 ---
 
@@ -36,9 +36,10 @@ We’re a small, fast team turning a proof-of-concept micro-SaaS into a producti
 ### Internship logistics
 
 * **Duration:** 3–6 months (option to extend or convert)
-* **Hours:** 6 days/week, on-site (co-working studio in Chennai)
+* **Mode of Work:** on-site (co-working studio in Chennai)
 * **Mentorship:** Daily pairing with a senior engineer; weekly deep-dive code reviews
 * **Culture:** Low-ego, high-curiosity, ship-early-ship-often. Mistakes are learning fuel.
+* **Takeaways:** Competitive stipend and endless learnings
 
 ### How to apply
 
